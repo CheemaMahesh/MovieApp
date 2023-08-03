@@ -125,3 +125,8 @@ footer.starCount {
   text-shadow: none;
   margin: 5px;
 }
+.r-cart-btn{
+  background-color: red;
+  margin: 5px;
+
+}

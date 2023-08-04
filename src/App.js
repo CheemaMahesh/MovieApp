@@ -1,9 +1,11 @@
 import './App.css';
 import  MovieList from './MovieList';
+import NavBar from './NavBar';
 
 function App() {
   return (
-<>   <h1>Movie App</h1>
+<>   
+<NavBar />
 <MovieList />
 </>
     );

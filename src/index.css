@@ -1,6 +1,3 @@
-
-
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -125,9 +122,3 @@ footer.starCount {
   text-shadow: none;
   margin: 5px;
 }
-.r-cart-btn{
-  background-color: red;
-  margin: 5px;
-
-}
-
